@@ -171,10 +171,11 @@ footer {
 }
 
 .team-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    justify-content: center;
     gap: 2rem;
     margin-top: 1rem;
+    flex-wrap: wrap; 
 }
 
 .team-member {
@@ -227,4 +228,5 @@ a {
 
 a:hover {
     text-decoration: underline;
+
 }
