@@ -13,7 +13,7 @@ SikhoSaral is a simple educational website designed for **1st-year Computer Engi
 **GitHub Repository:**  
 https://github.com/AtharvaShah-Git/SikhoSaral
 
-> **Live Demo:** [(https://atharvashah-git.github.io/SikhoSaral/)]
+> **Live Demo:** https://atharvashah-git.github.io/SikhoSaral/
 
 ---
 
